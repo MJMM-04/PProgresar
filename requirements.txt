@@ -1,0 +1,13 @@
+
+# Paquete para la manipulación de datos
+pandas==2.2.2
+
+#Paquete para conexion a base de datos
+psycopg2-binary ==2.9.9
+
+#Paquete para conexion con la Api
+requests==2.32.3
+
+#Paquete para la creación de archivos
+json==2.0.9
+

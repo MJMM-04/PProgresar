@@ -1,0 +1,137 @@
+[
+    {
+        "coord": {
+            "lon": -74.006,
+            "lat": 40.7143
+        },
+        "weather": [
+            {
+                "id": 800,
+                "main": "Clear",
+                "description": "clear sky",
+                "icon": "01d"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 296.2,
+            "feels_like": 296.13,
+            "temp_min": 294.42,
+            "temp_max": 297.56,
+            "pressure": 1016,
+            "humidity": 60,
+            "sea_level": 1016,
+            "grnd_level": 1014
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 6.17,
+            "deg": 340
+        },
+        "clouds": {
+            "all": 0
+        },
+        "dt": 1725290920,
+        "sys": {
+            "type": 1,
+            "id": 4610,
+            "country": "US",
+            "sunrise": 1725272679,
+            "sunset": 1725319613
+        },
+        "timezone": -14400,
+        "id": 5128581,
+        "name": "New York",
+        "cod": 200
+    },
+    {
+        "coord": {
+            "lon": -99.1277,
+            "lat": 19.4285
+        },
+        "weather": [
+            {
+                "id": 803,
+                "main": "Clouds",
+                "description": "broken clouds",
+                "icon": "04d"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 290.9,
+            "feels_like": 290.74,
+            "temp_min": 290.9,
+            "temp_max": 291.11,
+            "pressure": 1017,
+            "humidity": 77,
+            "sea_level": 1017,
+            "grnd_level": 766
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 2.06,
+            "deg": 240
+        },
+        "clouds": {
+            "all": 75
+        },
+        "dt": 1725291001,
+        "sys": {
+            "type": 2,
+            "id": 47729,
+            "country": "MX",
+            "sunrise": 1725279708,
+            "sunset": 1725324640
+        },
+        "timezone": -21600,
+        "id": 3530597,
+        "name": "Mexico City",
+        "cod": 200
+    },
+    {
+        "coord": {
+            "lon": -0.1257,
+            "lat": 51.5085
+        },
+        "weather": [
+            {
+                "id": 802,
+                "main": "Clouds",
+                "description": "scattered clouds",
+                "icon": "03d"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 294.04,
+            "feels_like": 294.3,
+            "temp_min": 293.01,
+            "temp_max": 295.66,
+            "pressure": 1010,
+            "humidity": 81,
+            "sea_level": 1010,
+            "grnd_level": 1005
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 3.6,
+            "deg": 210
+        },
+        "clouds": {
+            "all": 40
+        },
+        "dt": 1725290684,
+        "sys": {
+            "type": 2,
+            "id": 2075535,
+            "country": "GB",
+            "sunrise": 1725254122,
+            "sunset": 1725302715
+        },
+        "timezone": 3600,
+        "id": 2643743,
+        "name": "London",
+        "cod": 200
+    }
+]
